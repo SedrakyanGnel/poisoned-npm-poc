@@ -1,6 +1,6 @@
 {
-  "name": "poisoned-npm-poc",
-  "version": "1.0.0",
+  "name": "cache-poisoned-poc",
+  "version": "1.0.2",
   "description": "A safe-looking package",
   "main": "index.js",
   "scripts": {
