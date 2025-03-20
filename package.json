@@ -1,0 +1,11 @@
+{
+  "name": "poisoned-npm-poc",
+  "version": "1.0.0",
+  "description": "A safe-looking package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gnel",
+  "license": "MIT"
+}

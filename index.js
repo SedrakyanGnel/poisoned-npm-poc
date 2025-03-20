@@ -1,0 +1,1 @@
+console.log("This is a safe version of the package.");
